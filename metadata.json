@@ -1,0 +1,6 @@
+{
+  "name": "Phis Guard",
+  "description": "Outil de cybersécurité moderne spécialisé dans la détection avancée du phishing pour emails, messages et URLs.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
